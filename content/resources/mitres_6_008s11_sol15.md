@@ -4,6 +4,7 @@ description: This resource contains solutions for the problem statements related
   design of IIR digital filters, part 2.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-6-008-digital-signal-processing-spring-2011/335e3802ca00ce2d184f3971587343b0_MITRES_6_008S11_sol15.pdf
 file_type: application/pdf
+parent_uid: d0980677-5415-3344-6fb0-bae3bb5be0e3
 resourcetype: Document
 title: MITRES_6_008S11_sol15.pdf
 uid: 335e3802-ca00-ce2d-184f-3971587343b0

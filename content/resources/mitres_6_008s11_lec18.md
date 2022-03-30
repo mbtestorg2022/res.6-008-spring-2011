@@ -4,6 +4,7 @@ description: This resource contains information related to computation of the di
   Fourier transform, part 1.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-6-008-digital-signal-processing-spring-2011/30433d4ac3003ee02003ad8ccb726ab0_MITRES_6_008S11_lec18.pdf
 file_type: application/pdf
+parent_uid: d0980677-5415-3344-6fb0-bae3bb5be0e3
 resourcetype: Document
 title: MITRES_6_008S11_lec18.pdf
 uid: 30433d4a-c300-3ee0-2003-ad8ccb726ab0
